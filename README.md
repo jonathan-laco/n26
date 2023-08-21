@@ -1,6 +1,6 @@
 
 # Clone do cartão N26 Bank
-![image](https://github.com/jonathan-laco/n26/assets/39104938/e5fffe5c-6a7f-43fe-bef4-592c53c09834)
+![image](https://github.com/jonathan-laco/n26/assets/39104938/a04e03ee-9782-4860-8590-bc2488211f66)
 
 
 Este é um projeto simples que demonstra um efeito interativo de virar um cartão, utilizando HTML, CSS e JavaScript. O cartão gira suavemente de frente para o verso ao passar o mouse sobre ele, exibindo informações relevantes do cartão.
