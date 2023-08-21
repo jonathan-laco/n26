@@ -1,0 +1,7 @@
+<svg width="400" height="280" xmlns="http://www.w3.org/2000/svg">
+  <!-- Trilha superior -->
+  <rect x="20" y="100" width="360" height="5" fill="#333" />
+
+  <!-- Trilha inferior -->
+  <rect x="20" y="150" width="360" height="5" fill="#333" />
+</svg>
